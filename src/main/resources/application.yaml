@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: crpt-api
+
+webClient:
+  timeout: 5000
+
+crpt-api:
+  create-url: https://ismp.crpt.ru/api/v3/lk/documents/create;
